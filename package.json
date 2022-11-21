@@ -44,10 +44,11 @@
     ]
   },
   "dependencies": {
+    "@ant-design/icons": "^4.8.0",
     "@formily/antd": "^2.2.12",
     "@formily/core": "^2.2.12",
     "@formily/react": "^2.2.12",
-    "antd": "^5.0.0",
+    "antd": "^4.0.0",
     "moment": "^2.29.4"
   },
   "devDependencies": {

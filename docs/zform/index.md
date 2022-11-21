@@ -1,7 +1,7 @@
 ---
 title: ZForm
 nav:
-  title: ZForm,
+  title: ZForm
   order: 1
 group:
   title: Form

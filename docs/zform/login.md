@@ -2,12 +2,12 @@
 title: 登录
 ---
 
-# Foo
+# Login Form
 
 This is an example component.
 
 ```jsx
-import { Foo } from 'zrender';
+import { Login } from 'zrender';
 
-export default () => <Foo title="Hello dumi!" />;
+export default () => <Login />;
 ```
